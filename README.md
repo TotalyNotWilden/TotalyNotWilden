@@ -1,10 +1,10 @@
-## Wsup
+## Wsup  
 
-# Profile And Contact:
-📧 wilden@totalynotwilden.com
-⏰ Timezone: Adelaide/Australia
-🪪 https://me.totalynotwilden.com
-💬 [<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/1350249276927643741)
+# Profile And Contact:  
+📧 wilden@totalynotwilden.com  
+⏰ Timezone: Adelaide/Australia  
+🪪 https://me.totalynotwilden.com  
+💬 https://discord.com/users/1350249276927643741  
 
 
 
