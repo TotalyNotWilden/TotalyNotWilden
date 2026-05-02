@@ -6,6 +6,8 @@
 🪪 https://me.totalynotwilden.com  
 💬 https://discord.com/users/1350249276927643741  
 
+(ill improve this readme later   ...probably)  
+
 
 
 
