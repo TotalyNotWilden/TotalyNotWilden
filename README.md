@@ -1,6 +1,6 @@
 ## Wsup  
 
-# Profile And Contact:  
+**Profile And Contact:**  
 📧 wilden@totalynotwilden.com  
 ⏰ Timezone: Adelaide/Australia  
 🪪 https://me.totalynotwilden.com  
