@@ -5,7 +5,7 @@ Wsup <br>
 ✅ Good at bash, docker, python <br>
 ⚙️ OK at JS, HTML, CSS <br>
 ⏱️ I Love Procrastinating <br>
-📱 I use Omarchy Linux And Samsung Phone <br>
+📱 I use Arch Linux (btw) And Samsung Phone <br>
 ⏰ Timezone: Adelaide/Australia <br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/1350249276927643741) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wilden@totalynotwilden.com) <a href="https://me.totalynotwilden.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/-Website-grey?style=flat&logo=google-chrome"></a> 
